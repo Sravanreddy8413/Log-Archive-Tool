@@ -1,5 +1,4 @@
-This project is part of the roadmap.sh DevOps projects.
-Project URL: https://roadmap.sh
+https://roadmap.sh
 
 #!/bin/bash
 
@@ -39,7 +38,3 @@ echo "File: $ARCHIVE_DIR/$ARCHIVE_NAME"
 echo "Archive Size:"
 du -sh "$ARCHIVE_DIR/$ARCHIVE_NAME"
 echo "====================================="
-
-
-This project is part of the roadmap.sh DevOps projects.
-Project URL: https://roadmap.sh
