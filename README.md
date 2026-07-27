@@ -1,3 +1,6 @@
+This project is part of the roadmap.sh DevOps projects.
+Project URL: https://roadmap.sh
+
 #!/bin/bash
 
 # Check if log directory is provided
